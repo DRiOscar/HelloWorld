@@ -7,7 +7,7 @@ I will write something ...
 
 Debian packages
 ----------
-apt-spy - https://packages.debian.org/source/wheezy/apt-spy
-apt-listbugs - tool which lists critical bugs before each apt installation
+- apt-spy - writes a sources.list file based on bandwidth tests
+- apt-listbugs - tool which lists critical bugs before each apt installation
 
 
